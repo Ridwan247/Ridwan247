@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ridwan Pranajaya
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning PHP Native, Laravel, CodeIgniter
+- 🌱 I’m currently learning Laravel, Vue Js, Flutter
 - 💞️ I’m looking for a job
 - 📫 How to reach me wa : 0822 8857 1957
 
